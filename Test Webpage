@@ -1,0 +1,37 @@
+<html>
+	<body>
+		<main>
+			<!-- this is a comment -->
+			<h1>This is a <strong>Test Webpage</strong></h1> 
+			<h2>This will get updated as time goes on</h2>
+			<p>This webpage will get updates as I learn new things to add to the webpage. <br>I made this webpage to get additional practice with making websites</p>
+		</main>
+		<section>
+			<h2>This part is about lists</h2>
+			<h3>Unordered list</h3>
+			<ul>
+			    <li>item</li>
+			    <li>item</li>
+			</ul>
+			<h3>Ordered list</h3>
+			<ol>
+			    <li>item</li>
+			    <li>item</li>
+                            <li>item</li>
+			</ol>
+		</section>
+		<section>
+			<h2>This part is about images</h2>
+			<figure>
+			<img src=https://th.bing.com/th/id/R.811c560421e62357f0f27951bb50bbd8?rik=ioJFS0pVYgfbxg&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f230000%2fvelka%2fred-ferrari-super-car.jpg&ehk=NqfHZxMHOJ0vRbyHoD0fMx8xLm7tymIqVpaAA8uoJyc%3d&risl=&pid=ImgRaw&r=0 alt="A red ferrari in a parking lot in day time">
+			<figcaption>This is a picture of a car I found on the <em>internet</em>.</figcaption>
+			</figure>
+		</section>
+		<section>
+			<!-- <h2>This part is about buttons and user inputs<h2> -->
+		</section>
+			
+
+		
+	</body>
+</html>
