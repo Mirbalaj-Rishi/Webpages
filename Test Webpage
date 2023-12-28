@@ -1,4 +1,10 @@
 <html>
+	<head>
+		<title>Test Page</title>
+		<meta charset="utf-8" />
+		<!-- this part makes the webpage use utf-8 characters -->
+                <meta name="viewport" content="width=device-width" />
+		<!-- This part makes sure the webpage shrinks to fit mobile devices -->
 	<body>
 		<main>
 			<!-- this is a comment -->
@@ -26,6 +32,9 @@
 			<img src=https://th.bing.com/th/id/R.811c560421e62357f0f27951bb50bbd8?rik=ioJFS0pVYgfbxg&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f230000%2fvelka%2fred-ferrari-super-car.jpg&ehk=NqfHZxMHOJ0vRbyHoD0fMx8xLm7tymIqVpaAA8uoJyc%3d&risl=&pid=ImgRaw&r=0 alt="A red ferrari in a parking lot in day time">
 			<figcaption>This is a picture of a car I found on the <em>internet</em>.</figcaption>
 			</figure>
+			<a href="https://images.google.com/">
+                        if you want to see more pictures you can click this link and search for some on google images.
+			</a>
 		</section>
 		<section>
 			<!-- <h2>This part is about buttons and user inputs<h2> -->
